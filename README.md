@@ -1,10 +1,10 @@
 # CHATBOT FURIA 🐾
 - Um projeto de chatbot dedicado aos fãs da FURIA!
-ele permite uma conversa rápida e satisfatória com informações sobre a organização, produtos da loja oficial, diretamente com um assistente virtual da FURIA.
+ele permite uma conversa rápida e satisfatória com informações sobre o time de cs2 , organização, produtos da loja oficial, diretamente com um assistente virtual da FURIA.
 
 ## Funcionalidades
 
-CHATBOT: Um chat inteligente que responde perguntas automáticas sobre a organização da FURIA, seus jogadores, eventos e produtos.
+CHATBOT: Um chat inteligente que responde perguntas automáticas sobre o time , organização da FURIA, seus jogadores, eventos e produtos.
 
 ## Tecnologias Utilizadas
 - esse projeto foi feito com a linguagem de progração "PYTHON" utilizando o a biblioteca "STREAMLIT" e "OPENAI API"
