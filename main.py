@@ -7,7 +7,6 @@ import openai
 
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key = api_key
 
 # título da página
 st.set_page_config(
