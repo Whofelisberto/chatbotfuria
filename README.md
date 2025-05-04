@@ -25,5 +25,12 @@ pip install python-dotenv
 
 # OBS
 
-- A api da openai não deixa colocar a chave em um local público, então ela estará no arquivo .env e não será enviada para o GitHub!!!
+- A api da openai não deixa colocar a chave em um local público, então ela estará escondida no .env e não será enviada para o GitHub!!!
+
+# Como criar sua API key
+
+- O primeiro passo é criar uma conta na OpenAI.
+- Acesse a Área de API Keys.
+- Crie uma Nova API Key.
+- Copie e cole sua API Key
 
