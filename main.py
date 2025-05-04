@@ -1,6 +1,6 @@
 import streamlit as st
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
 import openai
 
 # função que guarda o token da api no arquivo env e chama sem mostrar a chave
